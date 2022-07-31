@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+}
+#conteiner{
+    margin: 150px auto;
+    width: 600px;   
+}
+
+table{
+    background-color: white;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+tr, td{
+    border: solid 3px black ; 
+    padding: 10px;
+    background-color: white;
+}
